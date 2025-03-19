@@ -2,3 +2,20 @@ html {
     height: 100%;
     width: 100%;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}

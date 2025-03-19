@@ -1,0 +1,10 @@
+// Variables
+$blue: #0000ff;
+
+ul {
+    li {
+        color: $blue; // Application de la couleur bleue
+        padding-left: 10px; // Espacement intérieur de 10px à gauche
+        margin-bottom: 15px; // Marge inférieure de 15px
+    }
+}
